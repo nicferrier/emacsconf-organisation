@@ -179,10 +179,17 @@
 
 ** Book raffle
 
-   http://emacsconf.org/proposals/34
+   http://emacsconf.org/proposals/42
 
    suggested by mhuber of Linux Magazine, Germany
 
    One issue I see with this, is when the publishers send over titles,
    the customs hold them up sometimes even thought they are marked as
    'gifts'.
+
+   I will try and have the titles sent from within the UK. In any case,
+   I'll need a contact person at the venue as an adress. Not much
+   storage space will be needed, I expect a dozen books or so (mhuber)
+
+   Also, I will have a raffle for vouchers from my employer (Admin
+   Magazine, Linux (Pro) Magazine, Ubuntu User etc.) (mhuber)
